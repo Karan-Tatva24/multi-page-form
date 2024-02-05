@@ -1,0 +1,4 @@
+export const ActionTypes = {
+  UPDATE_FORM_FIELD: "UPDATE_FORM_FIELD",
+  SUBMIT_FORM_DATA: "SUBMIT_FORM_DATA",
+};
